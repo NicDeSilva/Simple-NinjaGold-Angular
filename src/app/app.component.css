@@ -1,0 +1,13 @@
+.location {
+    display: inline-block;
+    margin-right: 15%;
+    border: 2px solid navy;
+    border-radius: 1px;  
+    text-align: center;
+    padding: 10px;
+}
+
+#log {
+    height: 200px;
+    overflow: scroll;
+}
